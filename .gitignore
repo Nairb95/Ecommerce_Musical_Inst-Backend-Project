@@ -1,0 +1,13 @@
+# Ignore virtual environment files
+venv/
+env/
+.venv/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore static files
+static/
+
+# Ignore media files
+media/
